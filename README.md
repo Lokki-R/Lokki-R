@@ -26,7 +26,11 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  <p align="center"> </p>
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&theme=gotham" alt="logesh328" />
+
+ </p>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -67,8 +71,4 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&theme=gotham" alt="logesh328" />
-
- </p>
