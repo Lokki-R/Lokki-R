@@ -71,7 +71,7 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=nightowl" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl" width="700">
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
