@@ -27,12 +27,12 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&theme=gotham" alt="logesh328" />
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  </p>
 **languages and tools:**  
 
