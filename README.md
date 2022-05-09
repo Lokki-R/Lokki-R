@@ -23,9 +23,9 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
   
 - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
 - 💬 ask me about anything, I am Happy to help :)
-<p align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  </p>
+ <p align="center"> </p>
 
 **languages and tools:**  
 
