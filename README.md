@@ -98,19 +98,7 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-
-
-
- 
 <br>
-
-
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=logesh328&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=logesh328&theme=redical">
 </p> 
