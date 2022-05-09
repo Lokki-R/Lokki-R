@@ -74,11 +74,9 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
-
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Lokki" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 
