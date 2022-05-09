@@ -32,6 +32,25 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 - 💬 ask me about anything, I am Happy to help :)
 
 
+
+
+
+
+<h2 align="center">Technology Stack</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -55,14 +74,6 @@ CodeIgnter   21 mins         ██████████░░░░░░░
 JSON         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   21.82 %
 ```
 
-<!--END_SECTION:waka-->
-
-<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
-
-<!-- <a href="https://www.buymeacoffee.com/logesh328" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh328&theme=tokyonight)
-<!-- <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
 
@@ -75,25 +86,6 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-
-
-<h2 align="center">Technology Stack</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
 <br>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=logesh328&theme=redical">
