@@ -23,17 +23,8 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
   
 - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
 - 💬 ask me about anything, I am Happy to help :)
-<p>📈 My Github Streaks</p>
 
 
-
-
-📈 My Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&theme=gotham" alt="logesh328" />
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- </p>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -74,7 +65,7 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<!-- <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
 
