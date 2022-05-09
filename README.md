@@ -17,15 +17,12 @@
 
 <br />
 
-hi, i'm [logesh328](https://logesh328.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
+- 💬 ask me about anything, I am Happy to help :)
 
 **languages and tools:**  
 
@@ -54,9 +51,9 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-<a href="https://www.buymeacoffee.com/logesh328" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/logesh328" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
