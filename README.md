@@ -43,9 +43,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 JavaScript   6 hrs 11 mins   █████████████████▓░░░░░░░   51.09 %
 TypeScript   5 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
 CodeIgnter   21 mins         ██████████░░░░░░░░░░░░░░░   39.02 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   21.82 %
 ```
 
 <!--END_SECTION:waka-->
