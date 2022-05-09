@@ -71,39 +71,13 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&theme=gotham" alt="logesh328" />
 
   
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<img src="https://github.com/logesh328/logesh328/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Lokki R" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
-
-```    
-          My 2021 GitHub Skyline          
-
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
-
-```
-<!--
-``` 
-          @mishmanners' 2020 GitHub Skyline          
-
-     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
-                         ▁    █        ▃          █  
- ✧    ✦             ▇    █    █✦  ☽ ▂▄ █ ▇       ✧█  
-  ▆  ✧   ▄ ✧  ▆ ▄   █    █ ▄  █ ▂✦▄ ██▆█ █        █  
-  █▅▃▃▁ ▁█ ▃▃▅█▆█▃▃▅█▅▃ ▃█▃█▃▃█▅█▅█▆████▃█ ▃✧▅▃ ▃ █▁ 
-▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
-
-```
---!>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=jolly" width="700">
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/logesh328/logesh328/blob/output/github-contribution-grid-snake.svg)
