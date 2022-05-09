@@ -52,7 +52,7 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 
 <!-- <a href="https://www.buymeacoffee.com/logesh328" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh328&theme=tokyonight)
 <!-- <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
