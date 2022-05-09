@@ -1,26 +1,24 @@
 
   ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Lokki's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Lokki's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Lokki's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Lokki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=logesh328.logesh328)
 
 <br />
 
-Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management
+Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management.
 
-<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  
 - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
 - 💬 ask me about anything, I am Happy to help :)
 
@@ -42,9 +40,9 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 11 mins   ████████████▓░░░░░░░░░░░░   51.09 %
+JavaScript   6 hrs 11 mins   █████████████████▓░░░░░░░   51.09 %
 TypeScript   5 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
-HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+CodeIgnter   21 mins         ██████████░░░░░░░░░░░░░░░   39.02 %
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
@@ -55,14 +53,6 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
 <!-- <a href="https://www.buymeacoffee.com/logesh328" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 <!-- <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
