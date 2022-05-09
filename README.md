@@ -20,9 +20,9 @@
 </p>
 
 <br />
-<h3 align="center">
+<h3 align="center"></h3>
 Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management.
-</h3>
+
 - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
 - 💬 ask me about anything, I am Happy to help :)
 
