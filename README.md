@@ -13,6 +13,16 @@
   <img align="left" alt="Lokki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/years/ritik307"/>
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
 ![](https://visitor-badge.glitch.me/badge?page_id=logesh328.logesh328)
 
 <br />
@@ -67,25 +77,12 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 
 
 
-----
 
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
-
-</p>
 
 
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
