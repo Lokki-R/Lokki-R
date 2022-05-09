@@ -79,6 +79,3 @@ JSON         5 mins          ████░░░░░░░░░░░░░
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=logesh328&count_private=true&theme=nightowl&showicons=true)]()
