@@ -25,9 +25,9 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
 
 
-- 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
+<!-- - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
 - 💬 ask me about anything, I am Happy to help :)
-
+ -->
 
 
 
