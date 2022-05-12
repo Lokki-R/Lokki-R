@@ -12,10 +12,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/logesh328/logesh328"/> 
- <img src="https://badges.pufler.dev/years/logesh328"/>
- <img src="https://badges.pufler.dev/repos/logesh328"/>
- <img src="https://badges.pufler.dev/commits/monthly/logesh328" />
+ <img src="https://badges.pufler.dev/visits/Lokki-R/Lokki-R"/> 
+ <img src="https://badges.pufler.dev/years/Lokki-R"/>
+ <img src="https://badges.pufler.dev/repos/Lokki-R"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Lokki-R" />
 
 </p>
 
@@ -53,7 +53,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
 <br>
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=logesh328&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Lokki-R&theme=redical">
 </p> 
 <hr>
 
@@ -69,9 +69,9 @@ JSON         1 hrs 6 mins    ████░░░░░░░░░░░░░
 ```
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=logesh328&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=Lokki-R&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=logesh328&theme=nightowl" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lokki-R&theme=nightowl" width="700">
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
