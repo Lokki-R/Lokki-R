@@ -58,15 +58,15 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <hr>
 
 
-📊 **This week I spent my time on:**
+<!-- 📊 **This week I spent my time on:** -->
 <!--START_SECTION:waka-->
-
+<!-- 
 ```text
 JavaScript   6 hrs 11 mins   █████████████████▓░░░░░░░   51.09 %
 TypeScript   5 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
 CodeIgnter   3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.02 %
 JSON         1 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   21.82 %
-```
+``` -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lokki-R&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
