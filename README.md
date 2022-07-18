@@ -8,7 +8,7 @@
   <img align="left" alt="Lokki's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<p align="center">
+<!-- <p align="center">
  
  <img src="https://img.shields.io/github/followers/lokki-r?style=flat-square"/>
  <img src="https://badges.pufler.dev/visits/Lokki-R/Lokki-R"/> 
@@ -16,7 +16,7 @@
  <img src="https://badges.pufler.dev/repos/Lokki-R"/>
  <img src="https://badges.pufler.dev/commits/monthly/Lokki-R" />
 
-</p>
+</p> -->
 
 <br />
 Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management.
@@ -46,6 +46,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <div align="center">
   <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
   <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&labelColor=22272D">
+  <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
   <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&labelColor=22272D">
   <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&labelColor=22272D">
   <img src="https://img.shields.io/badge/cloudflare-22272D?style=for-the-badge&logo=cloudflare&labelColor=22272D">
