@@ -41,20 +41,14 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-22272D?style=for-the-badge&logo=mysql&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/sqlite-22272D?style=for-the-badge&logo=sqlite&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/firebase-22272D?style=for-the-badge&logo=firebase&logoColor=FFCB2B&labelColor=22272D">
-</div>
-</p>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
-  <img src="https://img.shields.io/badge/Android%20Studio-22272D?style=for-the-badge&logo=android-studio&logoColor=84B64B&labelColor=22272D">
+  <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&logoColor=84B64B&labelColor=22272D">
+  <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&logoColor=fcfcfc&labelColor=22272D">
+  <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&logoColor=fcfcfc&labelColor=22272D">
+  <img src="https://img.shields.io/badge/cloudflare-22272D?style=for-the-badge&logo=cloudflare&logoColor=fcfcfc&labelColor=22272D">
+
 </div>
 </p>
 
@@ -73,8 +67,6 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <div align="center">
   <img src="https://img.shields.io/badge/linux-fcfcfc?style=for-the-badge&logo=linux&logoColor=fcfcfc&labelColor=22272D">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=22272D">
-  <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/cockpit-3465A2?style=for-the-badge&logo=cockpit&logoColor=fcfcfc&labelColor=22272D">
 </div>
 </p>
 
