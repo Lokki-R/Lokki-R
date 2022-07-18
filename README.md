@@ -10,6 +10,7 @@
 
 <p align="center">
  
+ <img src="https://img.shields.io/github/followers/lokki-r?style=flat-square"/>
  <img src="https://badges.pufler.dev/visits/Lokki-R/Lokki-R"/> 
  <img src="https://badges.pufler.dev/years/Lokki-R"/>
  <img src="https://badges.pufler.dev/repos/Lokki-R"/>
