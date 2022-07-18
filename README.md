@@ -81,4 +81,3 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <!-- platane/snk works, it just puts it on a new branch -->
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-[![Lokki-R Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lokki-r&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://lokki-r.dev)
