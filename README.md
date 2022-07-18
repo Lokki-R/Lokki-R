@@ -66,10 +66,15 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
  <img src="https://activity-graph.herokuapp.com/graph?username=Lokki-R&theme=redical">
 </p> 
 <hr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lokki-R&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for Lokki" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lokki-R&theme=nightowl" width="700">
+<br />
+<p align="left">
+    <a href="https://lokki-r.dev/">
+        <img width="49.5%"
+            src="https://github-readme-stats.vercel.app/api?username=lokki-r&show_icons=true&theme=nightowl&hide_border=true" />
+        <img width="49.5%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=lokki-r&theme=nightowl&hide_border=true" />
+    </a>
+</p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
