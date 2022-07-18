@@ -59,7 +59,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <div align="center">
   <img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
   <img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
-  <img src="https://img.shields.io/badge/linux-fcfcfc?style=for-the-badge&logo=linux&logoColor=fcfcfc&labelColor=22272D">
+  <img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
 </div>
 </p>
