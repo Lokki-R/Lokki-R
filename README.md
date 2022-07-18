@@ -55,16 +55,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/nestjs-E0234D?style=for-the-badge&logo=nestjs&logoColor=E0234D&labelColor=22272D">
-  <img src="https://img.shields.io/badge/flutter-60C9F7?style=for-the-badge&logo=flutter&logoColor=60C9F7&labelColor=22272D">
-  <img src="https://img.shields.io/badge/react%20js-7DDFFF?style=for-the-badge&logo=react&logoColor=7DDFFF&labelColor=22272D">
-  <img src="https://img.shields.io/badge/angular%20js-C3012F?style=for-the-badge&logo=angular&logoColor=C3012F&labelColor=22272D">
   <img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
-</div>
-</p>
-
-<p>
-<div align="center">
   <img src="https://img.shields.io/badge/linux-fcfcfc?style=for-the-badge&logo=linux&logoColor=fcfcfc&labelColor=22272D">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=22272D">
 </div>
