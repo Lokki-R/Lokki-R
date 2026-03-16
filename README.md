@@ -67,9 +67,12 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <br>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Lokki-R&theme=redical">
-</p> 
+
+![Logesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokki-R&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokki-R&theme=radical" />
+</p>
 <hr>
 <br />
 <p align="left">
