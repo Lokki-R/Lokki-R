@@ -1,40 +1,46 @@
-<br>
-<p>### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+# 👋 Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!-- <a href="https://www.instagram.com/lokkiiii_/" target="_blank">
-  <img align="left" alt="Lokki's Instagram" width="22px"  src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Logesh+R;Chief+Technology+Officer;System+Architecture+Engineer;Cloud+Infrastructure+Architect;DevOps+%7C+AI+Engineering;Startup+Product+Builder"/>
+
+</p>
+
+<p align="center">
+Full Stack Developer • Backend Architect • System Builder
+</p>
+
+---
+
+# 🚀 About Me
+
+* 💻 Full Stack Developer  
+* ⚙️ Strong experience in **API Design & Backend Architecture**  
+* 🏗️ Passionate about building **real-world scalable platforms**  
+* 🤝 Proven leadership in collaborating with engineering teams and C-level executives  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/logesh-r-5113a0179/">
+<img src="https://img.shields.io/badge/LinkedIn-Logesh%20R-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/logesh-r-5113a0179/" target="_blank">
-  <img align="left" alt="Lokki's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+</p>
 
+---
 
-<!-- <p align="center">
- 
- <img src="https://img.shields.io/github/followers/lokki-r?style=flat-square"/>
- <img src="https://badges.pufler.dev/visits/Lokki-R/Lokki-R"/> 
- <img src="https://badges.pufler.dev/years/Lokki-R"/>
- <img src="https://badges.pufler.dev/repos/Lokki-R"/>
- <img src="https://badges.pufler.dev/commits/monthly/Lokki-R" />
+# 🧰 Technology Stack
 
-</p> -->
-
-
-<br>
-Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management.
-
-<!-- - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
-- 💬 ask me about anything, I am Happy to help :)
- -->
-
-<h2 align="center">Technology Stack</h2>
+<h3 align="center">Languages & Core Technologies</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
@@ -45,57 +51,130 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
-  <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&labelColor=22272D">
-  <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
-  <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&labelColor=22272D">
-  <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&labelColor=22272D">
-  <img src="https://img.shields.io/badge/cloudflare-22272D?style=for-the-badge&logo=cloudflare&labelColor=22272D">
+---
 
-</div>
+<h3 align="center">Developer Tools</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
+<img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&labelColor=22272D">
+<img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
+<img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&labelColor=22272D">
+<img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&labelColor=22272D">
+<img src="https://img.shields.io/badge/cloudflare-22272D?style=for-the-badge&logo=cloudflare&labelColor=22272D">
+
 </p>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
-  <img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
-</div>
+---
+
+<h3 align="center">Frameworks & Platforms</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
+<img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
+
 </p>
 
-<br>
+---
 
-![Logesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokki-R&theme=github)
+<h3 align="center">Operating Systems</h3>
 
+<p align="center">
 
-<hr>
-<br />
-<p align="left">
-    <a href="https://lokki-r.dev/">
-        <img width="49.5%"
-            src="https://github-readme-stats.vercel.app/api?username=lokki-r&show_icons=true&theme=nightowl&hide_border=true" />
-        <img width="49.5%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=lokki-r&theme=nightowl&hide_border=true" />
-    </a>
+<img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
+
 </p>
 
-### Watch my contribution graph get eaten by the snake 🐍
+---
 
-<!-- platane/snk works, it just puts it on a new branch -->
+# ⚙️ DevOps & Infrastructure
 
-![mishmanners snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/PM2-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lokki-r&show_icons=true&theme=react&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokki-r&theme=react&hide_border=true"/>
+
+</p>
 
 
+# 📈 GitHub Activity Graph
 
-## 🌆 Explore My Developer GitHub City
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokki-R&theme=react"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokki-r&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌆 Explore My GitHub City
 
 Every commit builds my city.
 
+<p align="center">
+
 [![Explore My GitHub City](https://img.shields.io/badge/View-GitCity-blue?style=for-the-badge)](https://www.thegitcity.com/?user=lokki-r)
 
-
+</p>
 
 🔗 https://www.thegitcity.com/?user=lokki-r
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/lokki-r" alt="Logesh's Github chart" />
+
+</p>
+
+---
+
+# 💡  Developer Insight
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</p>
+
+---
