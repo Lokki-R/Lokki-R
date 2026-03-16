@@ -87,3 +87,19 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
 ![mishmanners snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+
+## 🏙 My GitHub City
+
+[![Explore My GitHub City](https://img.shields.io/badge/View-GitCity-blue?style=for-the-badge)](https://www.thegitcity.com/?user=lokki-r)
+
+
+## 🏙 My GitHub City
+
+[![Git City](https://www.thegitcity.com/preview.png?user=lokki-r)](https://www.thegitcity.com/?user=lokki-r)
+
+
+## 🌆 Explore My Developer City
+
+Every commit builds my city.
+
+🔗 https://www.thegitcity.com/?user=lokki-r
